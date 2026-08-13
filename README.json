@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "description": "A selection of open source social good projects can be found on GitHub's Social Impact Showcase, but here are a few more for good measure:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A11Y",
+          "description": "community-driven effort to make web accessibility easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nunjucks",
+            "last_commit": "2026-07-12T13:39:09Z",
+            "owner": "a11yproject",
+            "repo": "a11yproject.com",
+            "stars": 3878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Code Camp nonprofit email service",
+          "description": "helping nonprofits manage their email campaigns without having to use third party services.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-11-19T17:03:41Z",
+            "owner": "freeCodeCamp",
+            "repo": "mail-for-good",
+            "stars": 3818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rapid SMS",
+          "description": "open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-22T14:54:46Z",
+            "owner": "rapidsms",
+            "repo": "rapidsms",
+            "stars": 659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Find That Charity",
+          "description": "search engine for UK charities, with elasticsearch back end.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T22:12:11Z",
+            "owner": "kanedata",
+            "repo": "find-that-charity",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CharityBase",
+          "description": "comprehensive database of 350,000 charities + an open source API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T05:15:08Z",
+            "owner": "charity-base",
+            "repo": "charity-base-api",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alidade",
+          "description": "open source interactive tool that guides users to fit tech strategically into social change projects, and creates a structured PDF document for project planning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T19:53:24Z",
+            "owner": "the-engine-room",
+            "repo": "alidade",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tech Forward",
+          "description": "collection of tech-focused projects organisations and tools working for social progress.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2017-02-15T02:42:01Z",
+            "owner": "mattstauffer",
+            "repo": "tech-forward-gomix",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chayn DIY Online Safety Guide",
+          "description": "open source guide to help protect online accounts against harassment and stalkers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-09-11T14:57:58Z",
+            "owner": "chaynHQ",
+            "repo": "diy-online-privacy-starter",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HelpText",
+          "description": "open source app for SMS managment in nonprofit organisations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-04-24T11:53:25Z",
+            "owner": "open-ecommerce",
+            "repo": "helptext",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoGive",
+          "description": "database of charities (mostly but not exclusively UK based at present) with models of the impact they achieve, with a donation-tracking / fund-raising web-app. SoGive has links with the Effective Altruism (EA) movement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-12T10:04:07Z",
+            "owner": "winterstein",
+            "repo": "sogive-app",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Awesome tech for good projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Accelerators, incubators and fellowships"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Funders"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Agencies and consultancies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Regular meetups and events"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:40.081Z",
+    "original_repository": "TechforgoodCAST/awesome-techforgood",
+    "original_repository_sha": "b36ebe1bc7f664c1e21c777ed952d3ae32e94126",
+    "enhanced_repository": "enhansome/enhansome-techforgood",
+    "enhanced_repository_description": null,
+    "title": "Awesome tech for good with stars"
+  }
+}
