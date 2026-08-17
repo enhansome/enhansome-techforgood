@@ -1,6 +1,6 @@
 # Awesome tech for good with stars
 
-A selection of projects, organisations and useful tools for social-impact tech. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,215 | 🐛 27 | 🌐 Python | 📅 2026-08-16, [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,380 | 🐛 37 | 📅 2024-01-26 and all the rest.
+A selection of projects, organisations and useful tools for social-impact tech. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,376 | 🐛 15 | 🌐 Python | 📅 2026-08-16, [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,378 | 🐛 37 | 📅 2024-01-26 and all the rest.
 
 ## Contents
 
@@ -27,7 +27,7 @@ A selection of open source social good projects can be found on [GitHub's Social
 
 * [A11Y](https://github.com/a11yproject/a11yproject.com) ⭐ 3,878 | 🐛 106 | 🌐 Nunjucks | 📅 2026-08-13 - community-driven effort to make web accessibility easier.
 * [Free Code Camp nonprofit email service](https://github.com/FreeCodeCamp/nonprofit-email-service) ⚠️ Archived - helping nonprofits manage their email campaigns without having to use third party services.
-* [Rapid SMS](https://github.com/rapidsms/rapidsms) ⭐ 659 | 🐛 48 | 🌐 Python | 📅 2025-05-22 - open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.
+* [Rapid SMS](https://github.com/rapidsms/rapidsms) ⭐ 660 | 🐛 48 | 🌐 Python | 📅 2025-05-22 - open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.
 * [Find That Charity](https://github.com/TechforgoodCAST/find-that-charity) ⭐ 33 | 🐛 43 | 🌐 Python | 📅 2026-08-01 - search engine for UK charities, with elasticsearch back end.
 * [CharityBase](https://github.com/tithebarn/charity-base) ⭐ 26 | 🐛 24 | 🌐 JavaScript | 📅 2022-12-08 - comprehensive database of 350,000 charities + an open source API.
 * [Alidade](https://github.com/the-engine-room/alidade) ⭐ 17 | 🐛 43 | 🌐 JavaScript | 📅 2023-03-01 - open source interactive tool that guides users to fit tech strategically into social change projects, and creates a structured PDF document for project planning.
@@ -187,4 +187,4 @@ To the extent possible under law, CAST has waived all copyright and related or n
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
