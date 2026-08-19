@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7548246,
             "language": "Nunjucks",
             "last_commit": "2026-08-13T23:44:13Z",
             "owner": "a11yproject",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 67164440,
             "language": "JavaScript",
             "last_commit": "2020-11-19T17:03:41Z",
             "owner": "freeCodeCamp",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132857,
             "language": "Python",
             "last_commit": "2025-05-22T14:54:46Z",
             "owner": "rapidsms",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93387617,
             "language": "Python",
             "last_commit": "2026-08-01T22:12:11Z",
             "owner": "kanedata",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72357611,
             "language": "JavaScript",
             "last_commit": "2022-12-08T05:15:08Z",
             "owner": "charity-base",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37593578,
             "language": "JavaScript",
             "last_commit": "2023-03-01T19:53:24Z",
             "owner": "the-engine-room",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80493036,
             "language": "HTML",
             "last_commit": "2017-02-15T02:42:01Z",
             "owner": "mattstauffer",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75356947,
             "language": "CSS",
             "last_commit": "2018-09-11T14:57:58Z",
             "owner": "chaynHQ",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61735450,
             "language": "PHP",
             "last_commit": "2017-04-24T11:53:25Z",
             "owner": "open-ecommerce",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79010817,
             "language": "HTML",
             "last_commit": "2026-06-12T10:04:07Z",
             "owner": "winterstein",
@@ -145,30 +155,10 @@
         }
       ],
       "title": "Awesome tech for good projects"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Accelerators, incubators and fellowships"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Funders"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Agencies and consultancies"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Regular meetups and events"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:07:04.791Z",
+    "last_updated": "2026-08-19T09:08:22.617Z",
     "original_repository": "TechforgoodCAST/awesome-techforgood",
     "original_repository_sha": "b36ebe1bc7f664c1e21c777ed952d3ae32e94126",
     "enhanced_repository": "enhansome/enhansome-techforgood",
