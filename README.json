@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T01:56:15Z",
             "owner": "a11yproject",
             "repo": "a11yproject.com",
-            "stars": 3879
+            "stars": 3880
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 93387617,
             "language": "Python",
-            "last_commit": "2026-08-01T22:12:11Z",
+            "last_commit": "2026-08-26T11:56:58Z",
             "owner": "kanedata",
             "repo": "find-that-charity",
             "stars": 33
@@ -158,9 +158,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:23:17.494Z",
-    "original_repository": "TechforgoodCAST/awesome-techforgood",
-    "original_repository_id": 72796491,
+    "last_updated": "2026-08-27T12:09:18.644Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 72796491,
+      "language": null,
+      "last_commit": "2024-01-11T16:50:45Z",
+      "owner": "TechforgoodCAST",
+      "repo": "awesome-techforgood",
+      "stars": 202
+    },
     "original_repository_sha": "b36ebe1bc7f664c1e21c777ed952d3ae32e94126",
     "enhanced_repository": "enhansome/enhansome-techforgood",
     "enhanced_repository_description": null,
