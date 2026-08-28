@@ -16,7 +16,8 @@
             "owner": "a11yproject",
             "repo": "a11yproject.com",
             "stars": 3881
-          }
+          },
+          "first_seen": "2026-08-28T20:21:17.867Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2020-11-19T17:03:41Z",
             "owner": "freeCodeCamp",
             "repo": "mail-for-good",
-            "stars": 3815
-          }
+            "stars": 3814
+          },
+          "first_seen": "2026-08-28T20:21:17.867Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "rapidsms",
             "repo": "rapidsms",
             "stars": 660
-          }
+          },
+          "first_seen": "2026-08-28T20:21:17.867Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "kanedata",
             "repo": "find-that-charity",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:21:17.867Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "charity-base",
             "repo": "charity-base-api",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T20:21:17.867Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "the-engine-room",
             "repo": "alidade",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:21:17.867Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mattstauffer",
             "repo": "tech-forward-gomix",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:21:17.867Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "chaynHQ",
             "repo": "diy-online-privacy-starter",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:21:17.867Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "open-ecommerce",
             "repo": "helptext",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:21:17.867Z"
         },
         {
           "node_type": "item",
@@ -151,14 +160,15 @@
             "owner": "winterstein",
             "repo": "sogive-app",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:21:17.867Z"
         }
       ],
       "title": "Awesome tech for good projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:14:51.517Z",
+    "last_updated": "2026-08-28T20:21:17.867Z",
     "original_repository_info": {
       "archived": false,
       "id": 72796491,
