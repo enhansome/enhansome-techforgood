@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The A11Y Project is a community-driven effort to make digital accessibility easier.",
+            "homepage": "https://a11yproject.com",
             "id": 7548246,
             "language": "Nunjucks",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T01:56:15Z",
+            "open_issues": 106,
             "owner": "a11yproject",
             "repo": "a11yproject.com",
-            "stars": 3881
+            "stars": 3881,
+            "topics": [
+              "a11y",
+              "accessibility",
+              "eleventy",
+              "inclusive-design",
+              "user-experience"
+            ]
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
         },
@@ -26,12 +37,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open source email campaign management tool for nonprofits",
+            "homepage": null,
             "id": 67164440,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-11-19T17:03:41Z",
+            "open_issues": 48,
             "owner": "freeCodeCamp",
             "repo": "mail-for-good",
-            "stars": 3814
+            "stars": 3814,
+            "topics": [
+              "email",
+              "email-campaigns",
+              "opensourceforgood"
+            ]
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build SMS applications with Python",
+            "homepage": "https://rapidsms.readthedocs.io/en/latest/",
             "id": 132857,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-05-22T14:54:46Z",
+            "open_issues": 48,
             "owner": "rapidsms",
             "repo": "rapidsms",
-            "stars": 660
+            "stars": 660,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
         },
@@ -58,12 +83,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reconciliation for UK Charities and other nonprofit organisations, with elasticsearch back end. ",
+            "homepage": "https://findthatcharity.uk/",
             "id": 93387617,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T11:56:58Z",
+            "open_issues": 43,
             "owner": "kanedata",
             "repo": "find-that-charity",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "charity",
+              "charity-commission",
+              "elasticsearch",
+              "python-django",
+              "reconciliation",
+              "reconciliation-api",
+              "scottish-charities"
+            ]
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
         },
@@ -74,12 +112,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CharityBase GraphQL API",
+            "homepage": "https://charitybase.uk/api-portal",
             "id": 72357611,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-08T05:15:08Z",
+            "open_issues": 24,
             "owner": "charity-base",
             "repo": "charity-base-api",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "api",
+              "charity",
+              "data",
+              "graphql"
+            ]
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
         },
@@ -90,12 +138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool Selection Assistant",
+            "homepage": null,
             "id": 37593578,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2023-03-01T19:53:24Z",
+            "open_issues": 43,
             "owner": "the-engine-room",
             "repo": "alidade",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
         },
@@ -106,12 +159,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Collecting all of the progressive tech groups in one place",
+            "homepage": "https://tech-forward.com",
             "id": 80493036,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-02-15T02:42:01Z",
+            "open_issues": 0,
             "owner": "mattstauffer",
             "repo": "tech-forward-gomix",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "express",
+              "gomix",
+              "node",
+              "resistance",
+              "theresistance"
+            ]
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
         },
@@ -122,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chayn's Do It Yourself Online Safety guide helps women keep their online accounts and social profiles secure against harassment, and stalkers. This guide is open source.",
+            "homepage": "https://chayn.gitbooks.io/basic-diy-online-privacy/content/",
             "id": 75356947,
             "language": "CSS",
+            "license": null,
             "last_commit": "2018-09-11T14:57:58Z",
+            "open_issues": 3,
             "owner": "chaynHQ",
             "repo": "diy-online-privacy-starter",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
         },
@@ -138,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HelpText+ Is an open source app for sms managment in non profit organizations",
+            "homepage": null,
             "id": 61735450,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2017-04-24T11:53:25Z",
+            "open_issues": 0,
             "owner": "open-ecommerce",
             "repo": "helptext",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
         },
@@ -154,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The SoGive user app - See your impact",
+            "homepage": null,
             "id": 79010817,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-12T10:04:07Z",
+            "open_issues": 125,
             "owner": "winterstein",
             "repo": "sogive-app",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
         }
@@ -168,15 +247,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:21:17.867Z",
+    "last_updated": "2026-08-29T04:52:24.380Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A selection of projects, organisations and useful tools for social-impact tech",
+      "homepage": null,
       "id": 72796491,
       "language": null,
+      "license": null,
       "last_commit": "2024-01-11T16:50:45Z",
+      "open_issues": 7,
       "owner": "TechforgoodCAST",
       "repo": "awesome-techforgood",
-      "stars": 202
+      "stars": 202,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "social-impact",
+        "tech",
+        "tech-for-good"
+      ]
     },
     "original_repository_sha": "b36ebe1bc7f664c1e21c777ed952d3ae32e94126",
     "enhanced_repository": "enhansome/enhansome-techforgood",
