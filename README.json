@@ -16,7 +16,7 @@
             "language": "Nunjucks",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T16:15:11Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "a11yproject",
             "repo": "a11yproject.com",
             "stars": 3884,
@@ -147,7 +147,7 @@
             "open_issues": 43,
             "owner": "the-engine-room",
             "repo": "alidade",
-            "stars": 17,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:02:41.261Z",
+    "last_updated": "2026-09-09T13:08:25.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
