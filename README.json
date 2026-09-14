@@ -46,7 +46,7 @@
             "open_issues": 48,
             "owner": "freeCodeCamp",
             "repo": "mail-for-good",
-            "stars": 3811,
+            "stars": 3810,
             "topics": [
               "email",
               "email-campaigns",
@@ -88,7 +88,7 @@
             "id": 93387617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T11:56:58Z",
+            "last_commit": "2026-09-14T09:49:55Z",
             "open_issues": 43,
             "owner": "kanedata",
             "repo": "find-that-charity",
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:26:58.307Z",
+    "last_updated": "2026-09-14T15:13:37.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
