@@ -1,6 +1,6 @@
 # Awesome tech for good with stars
 
-A selection of projects, organisations and useful tools for social-impact tech. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,780 | 🐛 21 | 🌐 Python | 📅 2026-10-02, [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,419 | 🐛 46 | 📅 2024-01-26 and all the rest.
+A selection of projects, organisations and useful tools for social-impact tech. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,859 | 🐛 21 | 🌐 Python | 📅 2026-10-02, [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,420 | 🐛 46 | 📅 2024-01-26 and all the rest.
 
 ## Contents
 
