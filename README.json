@@ -19,7 +19,7 @@
             "open_issues": 107,
             "owner": "a11yproject",
             "repo": "a11yproject.com",
-            "stars": 3897,
+            "stars": 3898,
             "topics": [
               "a11y",
               "accessibility",
@@ -88,7 +88,7 @@
             "id": 93387617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T02:04:55Z",
+            "last_commit": "2026-10-09T13:46:55Z",
             "open_issues": 43,
             "owner": "kanedata",
             "repo": "find-that-charity",
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T15:50:30.258Z",
+    "last_updated": "2026-10-09T15:32:44.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
