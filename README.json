@@ -19,7 +19,7 @@
             "open_issues": 107,
             "owner": "a11yproject",
             "repo": "a11yproject.com",
-            "stars": 3898,
+            "stars": 3899,
             "topics": [
               "a11y",
               "accessibility",
@@ -46,7 +46,7 @@
             "open_issues": 48,
             "owner": "freeCodeCamp",
             "repo": "mail-for-good",
-            "stars": 3808,
+            "stars": 3809,
             "topics": [
               "email",
               "email-campaigns",
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:32:44.965Z",
+    "last_updated": "2026-10-10T14:41:57.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
