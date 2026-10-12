@@ -88,7 +88,7 @@
             "id": 93387617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T13:46:55Z",
+            "last_commit": "2026-10-12T15:27:36Z",
             "open_issues": 43,
             "owner": "kanedata",
             "repo": "find-that-charity",
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:03:27.183Z",
+    "last_updated": "2026-10-12T18:11:14.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
@@ -259,7 +259,7 @@
       "open_issues": 7,
       "owner": "TechforgoodCAST",
       "repo": "awesome-techforgood",
-      "stars": 203,
+      "stars": 204,
       "topics": [
         "awesome",
         "awesome-list",
