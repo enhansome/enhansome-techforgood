@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:46:43.925Z",
+    "last_updated": "2026-10-19T15:51:10.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
@@ -256,7 +256,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-01-11T16:50:45Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "TechforgoodCAST",
       "repo": "awesome-techforgood",
       "stars": 204,
