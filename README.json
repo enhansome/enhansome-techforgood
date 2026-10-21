@@ -88,8 +88,8 @@
             "id": 93387617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-13T11:04:55Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-21T08:15:42Z",
+            "open_issues": 44,
             "owner": "kanedata",
             "repo": "find-that-charity",
             "stars": 33,
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:49:43.172Z",
+    "last_updated": "2026-10-21T14:05:39.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
