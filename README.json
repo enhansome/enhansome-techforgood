@@ -15,8 +15,8 @@
             "id": 7548246,
             "language": "Nunjucks",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T16:15:11Z",
-            "open_issues": 107,
+            "last_commit": "2026-10-22T06:40:10Z",
+            "open_issues": 108,
             "owner": "a11yproject",
             "repo": "a11yproject.com",
             "stars": 3901,
@@ -88,7 +88,7 @@
             "id": 93387617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T08:15:42Z",
+            "last_commit": "2026-10-22T10:34:57Z",
             "open_issues": 44,
             "owner": "kanedata",
             "repo": "find-that-charity",
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:05:39.383Z",
+    "last_updated": "2026-10-22T14:04:28.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
