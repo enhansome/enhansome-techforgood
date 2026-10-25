@@ -19,7 +19,7 @@
             "open_issues": 108,
             "owner": "a11yproject",
             "repo": "a11yproject.com",
-            "stars": 3901,
+            "stars": 3902,
             "topics": [
               "a11y",
               "accessibility",
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:54:24.147Z",
+    "last_updated": "2026-10-25T13:20:34.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
@@ -259,7 +259,7 @@
       "open_issues": 8,
       "owner": "TechforgoodCAST",
       "repo": "awesome-techforgood",
-      "stars": 204,
+      "stars": 205,
       "topics": [
         "awesome",
         "awesome-list",
