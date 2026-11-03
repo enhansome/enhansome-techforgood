@@ -15,11 +15,11 @@
             "id": 7548246,
             "language": "Nunjucks",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T06:40:10Z",
-            "open_issues": 108,
+            "last_commit": "2026-11-03T03:15:26Z",
+            "open_issues": 109,
             "owner": "a11yproject",
             "repo": "a11yproject.com",
-            "stars": 3905,
+            "stars": 3906,
             "topics": [
               "a11y",
               "accessibility",
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:48:05.842Z",
+    "last_updated": "2026-11-03T16:29:33.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
