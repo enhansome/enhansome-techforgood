@@ -19,7 +19,7 @@
             "open_issues": 109,
             "owner": "a11yproject",
             "repo": "a11yproject.com",
-            "stars": 3907,
+            "stars": 3909,
             "topics": [
               "a11y",
               "accessibility",
@@ -71,7 +71,7 @@
             "open_issues": 48,
             "owner": "rapidsms",
             "repo": "rapidsms",
-            "stars": 660,
+            "stars": 661,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:05:18.906Z",
+    "last_updated": "2026-11-10T16:35:30.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
