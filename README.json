@@ -19,7 +19,7 @@
             "open_issues": 109,
             "owner": "a11yproject",
             "repo": "a11yproject.com",
-            "stars": 3910,
+            "stars": 3911,
             "topics": [
               "a11y",
               "accessibility",
@@ -46,7 +46,7 @@
             "open_issues": 48,
             "owner": "freeCodeCamp",
             "repo": "mail-for-good",
-            "stars": 3807,
+            "stars": 3806,
             "topics": [
               "email",
               "email-campaigns",
@@ -88,8 +88,8 @@
             "id": 93387617,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T21:50:50Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-13T15:22:07Z",
+            "open_issues": 45,
             "owner": "kanedata",
             "repo": "find-that-charity",
             "stars": 33,
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:02:05.181Z",
+    "last_updated": "2026-11-13T16:42:46.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
