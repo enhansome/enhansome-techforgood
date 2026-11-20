@@ -46,7 +46,7 @@
             "open_issues": 48,
             "owner": "freeCodeCamp",
             "repo": "mail-for-good",
-            "stars": 3806,
+            "stars": 3805,
             "topics": [
               "email",
               "email-campaigns",
@@ -71,7 +71,7 @@
             "open_issues": 48,
             "owner": "rapidsms",
             "repo": "rapidsms",
-            "stars": 661,
+            "stars": 660,
             "topics": []
           },
           "first_seen": "2026-08-28T20:21:17.867Z"
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:36:54.956Z",
+    "last_updated": "2026-11-20T17:14:32.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A selection of projects, organisations and useful tools for social-impact tech",
