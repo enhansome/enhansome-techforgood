@@ -1,6 +1,6 @@
 # Awesome tech for good with stars
 
-A selection of projects, organisations and useful tools for social-impact tech. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 336,019 | 🐛 22 | 🌐 Python | 📅 2026-11-17, [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,465 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-11 and all the rest.
+A selection of projects, organisations and useful tools for social-impact tech. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 336,199 | 🐛 22 | 🌐 Python | 📅 2026-11-17, [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,465 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-11 and all the rest.
 
 ## Contents
 
@@ -25,7 +25,7 @@ A selection of projects, organisations and useful tools for social-impact tech. 
 
 A selection of open source social good projects can be found on [GitHub's Social Impact Showcase](https://github.com/showcases/social-impact), but here are a few more for good measure:
 
-* [A11Y](https://github.com/a11yproject/a11yproject.com) ⭐ 3,913 | 🐛 109 | 🌐 Nunjucks | 📅 2026-11-09 - community-driven effort to make web accessibility easier.
+* [A11Y](https://github.com/a11yproject/a11yproject.com) ⭐ 3,914 | 🐛 109 | 🌐 Nunjucks | 📅 2026-11-09 - community-driven effort to make web accessibility easier.
 * [Free Code Camp nonprofit email service](https://github.com/FreeCodeCamp/nonprofit-email-service) ⚠️ Archived - helping nonprofits manage their email campaigns without having to use third party services.
 * [Rapid SMS](https://github.com/rapidsms/rapidsms) ⭐ 660 | 🐛 48 | 🌐 Python | 📅 2025-05-22 - open source framework for building interactive SMS applications, integrating with Django to provide a rich reporting interface. Created by the Innovation Team at UNICEF.
 * [Find That Charity](https://github.com/TechforgoodCAST/find-that-charity) ⭐ 33 | 🐛 45 | 🌐 Python | 📅 2026-11-13 - search engine for UK charities, with elasticsearch back end.
@@ -187,4 +187,4 @@ To the extent possible under law, CAST has waived all copyright and related or n
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
