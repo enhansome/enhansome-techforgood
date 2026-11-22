@@ -1,6 +1,6 @@
 # Awesome tech for good with stars
 
-A selection of projects, organisations and useful tools for social-impact tech. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 336,199 | 🐛 22 | 🌐 Python | 📅 2026-11-17, [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,465 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-11 and all the rest.
+A selection of projects, organisations and useful tools for social-impact tech. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 336,426 | 🐛 22 | 🌐 Python | 📅 2026-11-17, [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,465 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-11 and all the rest.
 
 ## Contents
 
@@ -187,4 +187,4 @@ To the extent possible under law, CAST has waived all copyright and related or n
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
